@@ -1,0 +1,12 @@
+{
+  "name": "rdhaiwal/328/Hello",
+  "authors": [
+    {
+      "name": "Rajpreet Dhaliwal",
+      "email": "rdhaliwal6@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
